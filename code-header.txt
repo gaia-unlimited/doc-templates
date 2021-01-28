@@ -1,0 +1,5 @@
+Copyright (c) 2021, <Name>, <Institute>
+All rights reserved.
+
+This library is free software; you can redistribute it and/or modify it under
+the terms of the 3-clause BSD style license - see LICENSE.
